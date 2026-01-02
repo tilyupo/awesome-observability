@@ -78,6 +78,7 @@ There are many more commands and methodologies you can apply to drill deeper.
 ### Metrics
 
 - [MyScale Telemetry](https://github.com/myscale/myscale-telemetry) - Tool designed to enhance the observability of LLM applications by capturing trace data from LangChain-based applications and storing it in MyScaleDB or ClickHouse.
+- [Replane](https://github.com/replane-dev/replane) - Dynamic configuration manager for feature flags, app settings, and operational config with version history, approvals, and realtime sync.
 - [OpenLLMetry](https://github.com/traceloop/openllmetry) - Open-source observability for your LLM application, based on OpenTelemetry.
 - [OpenLLMetry for Javascript](https://github.com/traceloop/openllmetry-js) - Sister project to OpenLLMetry, but in Typescript. Open-source observability for your LLM application, based on OpenTelemetry.
 - [OpenLLMetry for Go](https://github.com/traceloop/go-openllmetry) - Sister project to OpenLLMetry, but in Go. Open-source observability for your LLM application, based on OpenTelemetry.
